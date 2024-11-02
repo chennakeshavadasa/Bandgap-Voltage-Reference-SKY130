@@ -6,5 +6,5 @@ Piecewise Compensated High PSRR Bandgap Voltage Reference using SKY130PDK. This 
 
 ## Circuit
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4b424a0c-6b09-4884-94aa-7e0c57c1c2e1" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/26d7309f-9bdb-498a-9ae2-65f596873c1c" alt="Centered Image">
 </p>
