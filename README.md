@@ -21,13 +21,14 @@
   <img src="https://github.com/user-attachments/assets/ac01749c-df3c-40ae-bb4a-bb446873f781" alt="Centered Image">
 </p>
 
-## First Order BGR
+##  BGR
 - First Order Curvature Corrected Bandgap Reference Schematic
 <p align="center">
   <img src="https://github.com/user-attachments/assets/28f56c4c-c6ba-4de6-827e-1b2388376da9" alt="Centered Image">
 </p>
 
-- OTA Schematic 
+## OTA  
+- Schematic of the OTA used in the BGR
 <p align="center">
   <img src="https://github.com/user-attachments/assets/36fe670e-0ca6-461a-afab-647a8153d8c8" alt="Centered Image">
 </p>
