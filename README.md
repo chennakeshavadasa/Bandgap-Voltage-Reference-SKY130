@@ -9,9 +9,9 @@
 | Parameter                              | Symbol      | Condition                          | Min  | Typ  | Max  | Units |
 |----------------------------------------|-------------|------------------------------------|------|------|------|-------|
 | Bias Current for Bandgap               | IDDA        | VDDA=3.3, TJ=27°C                 |      | 10   |      | µA    |
-| Output Voltage Process Dependence      | VREF(P)     | Over Strong-Weak Corners          | 1.34 | 1.35 | 1.36 | V     |
-| Output Voltage Temperature Dependence  | VREF(T)     | Over -40°C ≤ T ≤ 125°C            | 1.34 | 1.35 | 1.36 | V     |
-| Output Voltage VDDA Dependence         | VREF(VDDA)  | 1.65 ≤ VDDA ≤ 3.3                 | 1.34 | 1.35 | 1.36 | V     |
+| Output Voltage Process Dependence      | VREF(P)     | Over Strong-Weak Corners          | 0.665| 0.675| 0.685| V     |
+| Output Voltage Temperature Dependence  | VREF(T)     | Over -40°C ≤ T ≤ 125°C            | 0.665| 0.675| 0.685| V     |
+| Output Voltage VDDA Dependence         | VREF(VDDA)  | 1.65 ≤ VDDA ≤ 3.3                 | 0.665| 0.675| 0.685| V     |
 | VREF dependence on VDDA                | PSRR        | vref/vdda at 1kHz                 |      | -60  |      | dB    |
 | Phase Margin                           | PM          | PM of combined ±feedback loops    |      |  50  |      | Deg   |
 <!--| VREF from Start Up Test Bench          | VREF(SU)    | \|1.35 - VREF(SU)\| at 100µs      |      |      | 10   | mV    | -->
