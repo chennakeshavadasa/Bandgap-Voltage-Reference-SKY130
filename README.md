@@ -4,8 +4,6 @@
 - **Note: If Anyone is interested in doing the layout for this, Please put a pull request**
 
 ## Specification
-## Specifications – Continued
-
 (V<sub>DDA</sub> = 3.3V, T<sub>J</sub> = 27°C, C<sub>L</sub> = 5pF unless otherwise specified below)
 
 | Parameter                              | Symbol      | Condition                          | Min  | Typ  | Max  | Units |
