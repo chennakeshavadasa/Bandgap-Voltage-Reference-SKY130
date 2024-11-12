@@ -54,7 +54,7 @@
     </p>
 
 
-    - Fast (ss)
+    - Fast (ff)
     <p align="center">
       <img src="https://github.com/user-attachments/assets/5526efe8-fdfd-43a8-9056-2c79c152647b" alt="Centered Image">
     </p>
