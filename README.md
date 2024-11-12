@@ -62,3 +62,8 @@
       <img src="https://github.com/user-attachments/assets/eb6c21d7-e6b7-40b0-a931-c30c49dff4de" alt="Centered Image">
     </p>
 
+    - Combined
+    <p align="center">
+      <img src="https://github.com/user-attachments/assets/3efa919f-2919-4133-949d-457a6cf796c1" alt="Centered Image">
+    </p>
+
