@@ -1,6 +1,6 @@
 # Piecewise Compensated High-PSRR-Bandgap-Voltage-Reference
 
-- Piecewise Compensated High PSRR Bandgap Voltage Reference using SKY130PDK. This is done as a course requirement for the Major Project of my B.Tech<br>
+- Low headroom Piecewise Compensated High PSRR Bandgap Voltage Reference using SKY130PDK. This is done as a course requirement for the Major Project of my B.Tech<br>
 - **Note: If Anyone is interested in doing the layout for this, Please put a pull request**
 
 ## Specification
