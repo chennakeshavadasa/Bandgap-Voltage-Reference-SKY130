@@ -1,7 +1,7 @@
 # Piecewise Compensated High-PSRR-Bandgap-Voltage-Reference
 
 - Low headroom Piecewise Compensated High PSRR Bandgap Voltage Reference using SKY130PDK. This is done as a course requirement for the Major Project of my B.Tech<br>
-- **Note: If Anyone is interested in doing the layout for this, Please put a pull request**
+- **Note: I'm facing issue related to convergence in ngspice, If someone is interested in solving it Please put a PR**
 
 ## Specification
 (V<sub>DDA</sub> = 3.3V, T<sub>J</sub> = 27°C, C<sub>L</sub> = 5pF unless otherwise specified below)
