@@ -1,4 +1,4 @@
-# Piecewise Compensated High-PSRR-Bandgap-Voltage-Reference
+# First Order Bandgap-Voltage-Reference
 
 - Low headroom Piecewise Compensated High PSRR Bandgap Voltage Reference using SKY130PDK. This is done as a course requirement for the Major Project of my B.Tech<br>
 - **Note: I'm facing issues related to convergence in ngspice, If someone is interested in solving it Please put a PR**
