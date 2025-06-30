@@ -17,7 +17,7 @@
 <!--| VREF from Start Up Test Bench          | VREF(SU)    | \|1.35 - VREF(SU)\| at 100µs      |      |      | 10   | mV    | -->
 
 ##  BGR
-- First Order Curvature Corrected Bandgap Reference Schematic
+- First Order Bandgap Reference Schematic
 <p align="center">
   <img src="https://github.com/user-attachments/assets/28f56c4c-c6ba-4de6-827e-1b2388376da9" alt="Centered Image">
 </p>
